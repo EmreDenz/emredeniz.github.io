@@ -16,8 +16,6 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact
       url : /contact
 
@@ -26,7 +24,7 @@ urls:
 
 author_logo: emre_deniz.jpg
 author: Emre Deniz
-author_bio: Hi, my name is Emre Deniz. I am a computer engineer.
+author_bio: Hi, my name is Emre Deniz. I am a DevOps Engineer.
 author_email: "emree.denz@gmail.com"
 #author_location: Turkish
 #author_website_url: "https://sujaykundu.com"
