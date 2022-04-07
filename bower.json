@@ -1,0 +1,23 @@
+{
+  "name": "emre-deniz-blog",
+  "homepage": "https://github.com/EmreDenz/emredenz.github.io.git",
+  "authors": [
+    "emredeniz <emree.denz@gmail.com>"
+  ],
+  "description": "Emre Deniz Blog",
+  "main": "",
+  "keywords": [
+    "emre",
+    "deniz",
+    "emre deniz",
+    "blog"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
