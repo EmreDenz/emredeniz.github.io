@@ -1,38 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ee59a9d-ea86-42e8-8a8b-abbd7e43c1db" name="Changes" comment="added personal site">
+    <list default="true" id="5ee59a9d-ea86-42e8-8a8b-abbd7e43c1db" name="Changes" comment="updated personal site">
+      <change beforePath="$PROJECT_DIR$/.all-contributorsrc" beforeDir="false" afterPath="$PROJECT_DIR$/.all-contributorsrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.forestry/settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.forestry/settings.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_authors/emredeniz.md" beforeDir="false" afterPath="$PROJECT_DIR$/_authors/emredeniz.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/author_skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/author_skills.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/product.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/product_definition.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/shop_breadcrumb.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/product.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-04-welcome-to-jekyll.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-04-welcome-to-jekyll.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-05-23-netlify-cms-created-this-article.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-23-netlify-cms-created-this-article.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-24-added-latex-support.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-25-multi-author-support.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_products/product1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_products/product2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_products/product3.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/admin/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/authors/johndoe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/authors/xplor4r.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/google.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/microsoft.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/oxford.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/products/product1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/products/product2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/products/product3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/blog/using-netlify-cms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/blog/using-netlify-cms/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sponsors.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styleguide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +20,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="e6762be0-ba6b-4de8-9c37-0515247fc008" />
@@ -90,7 +69,8 @@
       <workItem from="1649235962397" duration="1312000" />
       <workItem from="1649247311017" duration="3000" />
       <workItem from="1649252681253" duration="6457000" />
-      <workItem from="1649311883565" duration="9709000" />
+      <workItem from="1649311883565" duration="17235000" />
+      <workItem from="1649398298762" duration="2024000" />
     </task>
     <task id="LOCAL-00001" summary="added personal site">
       <created>1649322948309</created>
@@ -99,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649322948309</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated personal site">
+      <created>1649328737703</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649328737703</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added personal site" />
-    <option name="LAST_COMMIT_MESSAGE" value="added personal site" />
+    <MESSAGE value="updated personal site" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated personal site" />
   </component>
 </project>
