@@ -35,7 +35,7 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 author_work_experiences:
             - company_name: Galaksiya
               company_logo: galaksiya.png
-              company_url: https://www.galaksiya.com/
+              company_url: https://www.galaksiya.com
               designation: DevOps Engineer
               description: Worked on various Projects
               visibility: true
@@ -50,7 +50,7 @@ author_work_experiences:
 author_education_details:
               - college_logo: deu.png
                 college_name: Dokuz Eylül University
-                college_url: https://www.deu.edu.tr/
+                college_url: https://www.deu.edu.tr
                 college_degree: Computer Engineer
                 description:
                 visibility: true

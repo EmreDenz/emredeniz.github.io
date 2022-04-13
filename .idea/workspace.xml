@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ee59a9d-ea86-42e8-8a8b-abbd7e43c1db" name="Changes" comment="updated galaksiya logo">
+    <list default="true" id="5ee59a9d-ea86-42e8-8a8b-abbd7e43c1db" name="Changes" comment="updated work experience">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/about-me.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/about-me.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_authors/emredeniz.md" beforeDir="false" afterPath="$PROJECT_DIR$/_authors/emredeniz.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +69,6 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/authors" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -160,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649848021822</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="updated work experience">
+      <created>1649848297315</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1649848297315</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +193,7 @@
     <MESSAGE value="added posts" />
     <MESSAGE value="updated footer.html" />
     <MESSAGE value="updated galaksiya logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated galaksiya logo" />
+    <MESSAGE value="updated work experience" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated work experience" />
   </component>
 </project>

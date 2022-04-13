@@ -1,15 +1,14 @@
 # Add Authors here
-emredeniz:
-   name: Emre Deniz
-   username: emredeniz
-#   site: http://johndoe.com
-   avatar: emre_deniz.jpg
-   bio: "Hi I am Emre Deniz, a DevOps Engineer."
-   email: emree.denz@gmail.com
-   social:
-      - title: "github"
-        url: "https://github.com/EmreDenz"
-      - title: "linkedin"
-        url: "https://www.linkedin.com/in/emre-d-21b272162"
-      - title: "instagram"
-        url: "https://instagram.com/denz.emre"
+asd:
+  name: Emre Deniz
+  username: emredeniz
+  avatar: emre_deniz.jpg
+  bio: "Hi I am Emre Deniz, a DevOps Engineer."
+  email: emree.denz@gmail.com
+  social:
+    - title: "github"
+      url: "https://github.com/EmreDenz"
+    - title: "linkedin"
+      url: "https://www.linkedin.com/in/emre-d-21b272162"
+    - title: "instagram"
+      url: "https://instagram.com/denz.emre"
