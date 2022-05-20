@@ -1,4 +1,4 @@
-## Emre Deniz - DevOps Engineer
+## DevOps Engineer
 
 You can use the [editor on GitHub](https://github.com/EmreDenz/EmreDenz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
