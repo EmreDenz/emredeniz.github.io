@@ -1,22 +1,22 @@
 title: Emre Deniz
 subtitle: DevOps Engineer
 description: >- # this means to ignore newlines until "baseurl:"
-  This is Emre Deniz's personal site.
+  Emre Deniz'in kişisel sitesidir.
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    - text: Home
+    - text: Anasayfa
       url: /
-    - text: About
+    - text: Hakkımda
       url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Contact
+#    - text: Galleri
+#      url: /gallery
+    - text: İletişim
       url : /contact
 
 
@@ -24,11 +24,11 @@ urls:
 
 author_logo: emre_deniz.jpg
 author: Emre Deniz
-author_bio: Hi, my name is Emre Deniz. I am a DevOps Engineer.
+author_bio: Merhabalar, ben Emre Deniz. Galaksiya Bilişim Teknolojilerinde DevOps Engineer olarak çalışmaktayım. # Hi, my name is Emre Deniz. I am a DevOps Engineer.
 author_email: "emree.denz@gmail.com"
 #author_location: Turkish
 #author_website_url: "https://sujaykundu.com"
-typewrite-text: This is Emre Deniz's personal site.
+typewrite-text: Emre Deniz'in kişisel sitesidir. #This is Emre Deniz's personal site.
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -37,7 +37,7 @@ author_work_experiences:
               company_logo: galaksiya.png
               company_url: https://www.galaksiya.com
               designation: DevOps Engineer
-              description: Worked on various Projects
+              description: Çeşitli projelerde Backend Developer ve DevOps Engineer olarak çalıştım. #Worked on various Projects
               visibility: true
 #            - company_name: Microsoft
 #              company_logo: microsoft.png
@@ -49,24 +49,24 @@ author_work_experiences:
 # Education
 author_education_details:
               - college_logo: deu.png
-                college_name: Dokuz Eylül University
+                college_name: Dokuz Eylül Üniversitesi
                 college_url: https://www.deu.edu.tr
-                college_degree: Computer Engineer
+                college_degree: Bilgisayar Mühendisliği
                 description:
                 visibility: true
 
 # Projects
-author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
-                visibility: true
+#author_project_details:
+#              - project_thumbnail: gamershub.png
+#                project_title: Gamers Hub
+#                project_description: A Platform built for Gamers and Game Devs
+#                project_url: https://gamershub.in
+#                visibility: true
+#              - project_thumbnail: hack4r.PNG
+#                project_title: Hack4r
+#                project_description: A Platform built for Hackers and Penetration Testers
+#                project_url: https://hack4r.com
+#                visibility: true
 
 # social links
 #twitter_username: johndoe
@@ -74,7 +74,7 @@ github_username:  EmreDenz
 #facebook_username: johndoe
 linkedin_username: emre-d-21b272162
 #behance_username: johndoe
-instagram_username: denz.emre
+#instagram_username: denz.emre
 #medium_username: johndoe
 #telegram_username: johndoe
 #dribbble_username: johndoe
